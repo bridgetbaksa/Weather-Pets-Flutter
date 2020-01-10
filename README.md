@@ -1,16 +1,9 @@
-# weather_pets
+# Weather Pets
 
-A pet-themed weather app.
+A pet-themed weather app in Flutter that retrieves the most accurate weather data from https://openweathermap.org/api. The app uses your location to give you real-time weather updates, with the background images changing with the weather. Not a dog person? No worries! You can easily switch between cat and dog mode.
 
-## Getting Started
+![](Weather-Pets-App-Demo.gif)
 
-This project is a starting point for a Flutter application.
+Design inspiration from Giannina Thomas https://www.gthomasdesigns.com/
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
